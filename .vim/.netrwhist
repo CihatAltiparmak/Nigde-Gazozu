@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/home/cihat/Desktop/Nigde-Gazozu/.config'
+let g:netrw_dirhist_0='/home/cihat/Desktop/Nigde-Gazozu'
+let g:netrw_dirhist_9='/home/cihat/Desktop/Nigde-Gazozu/.config'
+let g:netrw_dirhist_8='/home/cihat/Desktop/Nigde-Gazozu/.config/ibus/bus'
+let g:netrw_dirhist_7='/home/cihat/Desktop/Nigde-Gazozu/.config/ibus'
+let g:netrw_dirhist_6='/home/cihat/Desktop/Nigde-Gazozu/.config/transmission'
+let g:netrw_dirhist_5='/home/cihat/Desktop/Nigde-Gazozu/.config/procps'
+let g:netrw_dirhist_4='/home/cihat/Desktop/Nigde-Gazozu/.config/cef_user_data/Dictionaries'
+let g:netrw_dirhist_3='/home/cihat/Desktop/Nigde-Gazozu/.config/cef_user_data'
+let g:netrw_dirhist_2='/home/cihat/Desktop/Nigde-Gazozu/.config/configstore'
